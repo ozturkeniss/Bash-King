@@ -1,0 +1,116 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+agent/agent
+script-manager/script_manager
+monitoring/monitoring_agent
+server/server
+
+# Go test files
+*.test
+*.out
+
+# Go coverage files
+*.cover
+coverage.txt
+
+# Go workspace file
+go.work
+
+# Go module files
+go.sum
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Docker related
+.dockerignore
+docker-compose.override.yml
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.staging
+
+# Configuration files with sensitive data
+config.json
+secrets.json
+*.key
+*.pem
+*.crt
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Package manager files
+node_modules/
+vendor/
+
+# Script output files
+output/
+results/
+*.txt
+*.csv
+
+# Binary files
+bin/
+dist/
+build/
+
+# Documentation build files
+docs/_build/
+site/
+
+# Cache directories
+.cache/
+*.cache
+
+# Runtime files
+*.pid
+*.sock
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Archive files
+*.tar.gz
+*.zip
+*.rar
+
+# Temporary script files
+script_*.sh
+temp_*.sh 
