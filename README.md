@@ -8,7 +8,7 @@ This system consists of a central script manager that can send bash scripts to m
 
 ## Architecture
 
-![39b317f2-39b4-4373-b384-c4157c5107f2](https://github.com/user-attachments/assets/b1a183f7-3e78-49c9-80f8-f39e6f694eb3)
+![0fd91591-d902-4643-9e5a-b86258d71e40](https://github.com/user-attachments/assets/01e70a07-630a-4594-80bd-66b1f11bc287)
 
 
 ### Core Components
