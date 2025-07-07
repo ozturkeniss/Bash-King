@@ -8,6 +8,9 @@ This system consists of a central script manager that can send bash scripts to m
 
 ## Architecture
 
+![0fd91591-d902-4643-9e5a-b86258d71e40](https://github.com/user-attachments/assets/534f7da0-5882-4e3b-8ea9-84f97c838c97)
+
+
 ### Core Components
 
 **Script Manager (Go)**
